@@ -59,14 +59,14 @@ const items = [
     { name: "Kattil", url: "bed.html" },
     { name: "Steel Cot", url: "bed.html" },
     { name: "Wood Cot", url: "bed.html" },
-    { name: "Tables", url: "chair&table.html" },
-    { name: "Armchair", url: "chair&table.html" },
-    { name: "Recliner Chair", url: "chair&table.html" },
-    { name: "Study Table", url: "chair&table.html" },
-    { name: "Wood Table", url: "chair&table.html" },
-    { name: "Dinning Table", url: "chair&table.html" },
-    { name: "Desk", url: "desk&cabinet.html" },
-    { name: "Cabinet", url: "desk&cabinet.html" },
+    { name: "Tables", url: "table.html" },
+    { name: "Armchair", url: "chair.html" },
+    { name: "Recliner Chair", url: "chair.html" },
+    { name: "Study Table", url: "table.html" },
+    { name: "Wood Table", url: "table.html" },
+    { name: "Dinning Table", url: "table.html" },
+    { name: "Desk", url: "desk.html" },
+    { name: "Cabinet", url: "cabinet.html" },
     { name: "King-size Bed", url: "bed.html" }
 ];
 
