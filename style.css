@@ -770,16 +770,19 @@ body,html {
     }
 
     .buttons {
-        flex-direction: column; /* Stack buttons vertically */
+        flex-direction: row; /* Stack buttons vertically */
         align-items: center;
         gap: 10px;
+        text-align: center;
+        display: flex;
     }
 
     .btn {
-        width: 80%; /* Make buttons wider */
+        width: 50%; /* Make buttons wider */
         padding: 5px 3px;
         font-size: 1rem;
     }
+
 
     .hero-image {
         width: 100%; /* Ensures image does not shrink too much */
